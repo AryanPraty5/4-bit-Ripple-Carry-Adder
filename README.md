@@ -7,7 +7,7 @@
 ![Adder Schematic](Assets/adder_schematic.png)
 
 ## Simulations:
-![Adder Simulation Waveform](assets/simulation_results_adder.png)
+![Adder Simulation Waveform](Assets/simulation_results_adder.png)
 
 
 
